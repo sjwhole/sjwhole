@@ -2,6 +2,7 @@
 
 - 👨‍💼    I'm Backend developer
 - 💻    Currently studying hard about Backend
+-  I love   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
 <br>
 
 
