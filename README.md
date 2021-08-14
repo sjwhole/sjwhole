@@ -30,5 +30,5 @@
 
 ## 📽 Algorithm
 <p align="center">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=letscode100"/>
+    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=letscode100"/>
 </p>
